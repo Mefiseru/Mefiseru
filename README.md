@@ -18,7 +18,7 @@
 
 ### 💼 **Top Projects**  
 - [🔗 MEVGuard: Open-Source MEV Blocker Verification Tool](https://github.com/Mefiseru/MEVGuard-Open-Source-MEV-Blocker-Verification-Tool): Working on an open-source tool designed to help prevent and verify Maximum Extractable Value (MEV) attacks, ensuring transparency and fairness in transaction processing on the Ethereum network.  
-- [⚙️ Django/Telegram E-commerce (PotokVPN](https://github.com/hayashidevs/potokvpn-backend): A feature-rich e-commerce platform developed using Django, Aiogram 2 and AmneziaWG.
+- [⚙️ Django/Telegram E-commerce (PotokVPN)](https://github.com/hayashidevs/potokvpn-backend): A feature-rich e-commerce platform developed using Django, Aiogram 2 and AmneziaWG.
 
 ---
 
